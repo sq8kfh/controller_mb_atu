@@ -1,4 +1,4 @@
-update=środa, 18 listopada 2020 18:02:24
+update=czwartek, 24 grudnia 2020 23:35:29
 version=1
 last_client=kicad
 [general]
@@ -237,3 +237,13 @@ uViaDrill=0.1
 dPairWidth=0.3048
 dPairGap=0.254
 dPairViaGap=0.25
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=gerber/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
