@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name kfhlib)(type Legacy)(uri ${KIPRJMOD}/kfhlib/kfhlib.lib)(options "")(descr ""))
+  (lib (name controller_mb_atu-rescue)(type Legacy)(uri ${KIPRJMOD}/controller_mb_atu-rescue.lib)(options "")(descr ""))
 )
